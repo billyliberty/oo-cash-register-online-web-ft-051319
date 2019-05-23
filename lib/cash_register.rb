@@ -23,9 +23,4 @@ class CashRegister
       @items << item
     end
   end
-
-  def apply_discount
-    if discount != 0
-
-
 end
